@@ -1,2 +1,2 @@
 # springboot
-Spring Boot Application
+Spring Boot Rest Api
